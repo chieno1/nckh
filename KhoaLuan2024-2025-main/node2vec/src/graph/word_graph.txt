@@ -1,0 +1,6 @@
+1
+apple,banana,0.3
+apple,fruit,0.9
+banana,fruit,0.4
+cherry pie,orange,0.5
+orange,juice apple,0.75
